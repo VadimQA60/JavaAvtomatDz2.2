@@ -1,4 +1,4 @@
-package ru.netology.rest;
+package ru.netology.api;
 
 import org.junit.jupiter.api.Test;
 
